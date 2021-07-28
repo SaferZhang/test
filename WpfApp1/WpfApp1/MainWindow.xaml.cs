@@ -28,11 +28,7 @@ namespace WpfApp1
 
         public void test()
         {
-            //this is the final
-
-            //bbbbbbbbbbbbbbbb
-            //this is 1
-            //sdfsdfasdfsd
+            //I am remote
         }
     }
 }
