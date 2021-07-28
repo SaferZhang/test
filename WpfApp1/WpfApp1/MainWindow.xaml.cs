@@ -28,7 +28,7 @@ namespace WpfApp1
 
         public void test()
         {
-            //hahaha client
+            //this is the final
         }
     }
 }
