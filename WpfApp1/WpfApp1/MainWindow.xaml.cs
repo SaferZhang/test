@@ -28,7 +28,7 @@ namespace WpfApp1
 
         public void test()
         {
-            //haha,I am local.
+            //I am king
         }
     }
 }
