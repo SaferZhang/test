@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/SaferZhang/" />
+  <default remote="origin" revision="main" />
+  <project path="test" name="test" />
+</manifest>
