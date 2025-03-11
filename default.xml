@@ -2,5 +2,5 @@
 <manifest>
   <remote name="origin" fetch="https://github.com/SaferZhang/" />
   <default remote="origin" revision="main" />
-  <project path="test" name="test" />
+  <project path="an" name="test" />
 </manifest>
